@@ -5,3 +5,5 @@ NumPy is a fundamental library that provides efficient tools for working with la
 
 The code examples demonstrate various functionalities of NumPy, including array creation, indexing, slicing, mathematical operations, and more. These examples serve as a valuable resource for learning and understanding the key concepts of NumPy.
 I encourage contributions from the community to further enrich this repository. Feel free to explore, learn, and collaborate with me to expand the possibilities of NumPy in scientific computing.
+
+![ezgif com-crop](https://github.com/jaison-1920/NumPy-Repository/assets/125309015/375b02c7-bb6f-4bbd-8e8d-2530a8b62054)
